@@ -1,0 +1,4 @@
+*.rej
+slock
+*.orig
+
